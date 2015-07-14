@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+doc/api
+doc/app
+*.swp
+*. ̃
